@@ -36,7 +36,7 @@ Add a link to the contribution documentation. This document should help and inst
 See [Code of Conducts](CODE_OF_CONDUCT.md)
 
 ## Authors/Contributors
-You can decide to add a list of the initial contributors here and add all other contributors to the CONTRIBUTOR.md file OR add all the contributors to the CONTRIBUTOR.md file and provide a link to the file.
+You can decide to add a list of the initial contributors here and add a link to all contributors here
 ```
 Example
 See list of contributors in CONTRIBUTOR.md
