@@ -30,3 +30,22 @@ Provide usage information for all users and contributors. Usage information shou
 
 ## Contributing
 Add a link to the contribution documentation. This document should help and instruct others on how to contribute to your project. See [CONTRIBUTION.md](CONTRIBUTION.md)
+
+
+## Code of conducts
+See [Code of Conducts](CODE_OF_CONDUCT.md)
+
+## Authors/Contributors
+You can decide to add a list of the initial contributors here and add all other contributors to the CONTRIBUTOR.md file OR add all the contributors to the CONTRIBUTOR.md file and provide a link to the file.
+```
+Example
+See list of contributors in CONTRIBUTOR.md
+```
+
+## Security Contact
+Please disclose any security-related issues or vulnerabilities by emailing [contact's email](company@email.com), instead of using the public issue tracker. See [SECURITY.md](SECURITY.md) for more information.
+
+## License
+Make sure you have a license that guides every user of the project. This license permits or restricts the use of the application by users of the project.
+
+If you need help choosing your license, visit [chooseyourlicense](https://choosealicense.com/licenses/) to get started with.
