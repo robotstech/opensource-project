@@ -36,11 +36,9 @@ Add a link to the contribution documentation. This document should help and inst
 See [Code of Conducts](CODE_OF_CONDUCT.md)
 
 ## Authors/Contributors
-You can decide to add a list of the initial contributors here and add a link to all contributors here
-```
-Example
-See list of contributors in CONTRIBUTOR.md
-```
+You can decide to add a list of the initial contributors here and add a link to all contributors here.
+
+See list of [contributors](https://github.com/robotstech/opensource-project/graphs/contributors) who contributed to this project
 
 ## Security Contact
 Please disclose any security-related issues or vulnerabilities by emailing [contact's email](company@email.com), instead of using the public issue tracker. See [SECURITY.md](SECURITY.md) for more information.
