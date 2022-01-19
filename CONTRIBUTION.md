@@ -9,13 +9,25 @@ There is a [Code of Conduct][code-of-conduct] in place for this project. You are
 
 
 ## Submitting a Pull Request
-
+1. Step 1 to submit a pull request `e.g clone/fork the repository`
+2. Step 2 to submit a pull request `e.g create a new branch`
+3. Step 3 to submit a pull request `e.g add the changes`
+4. Step 4 to submit a pull request `e.g commit the changes`
+5. Step 5 to submit a pull request `e.g push the changes`
+6. Step 6 to submit a pull request `e.g open a pull request`
+7. Step 7 to submit a pull request `e.g etc...`
 
 **dependencies**
-
+Tell the contributors how to install the dependencies for the project. 
+```
+Example: for a python project,
+run 
+pip install -r requirements.text
+```
 
 ## Testing
-
+If there a re tests to run when developing, you can provide the test commands to help the contributor run tests seemlessly. You might also want to explain common errors that could be encountered while running tests and how they can be solved.
 ## Releasing a new version
+You can create a list of steps on how a new version can be released. The is most times always for the maintainers of the project.
 
 
