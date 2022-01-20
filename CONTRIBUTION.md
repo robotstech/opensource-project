@@ -26,8 +26,8 @@ pip install -r requirements.text
 ```
 
 ## Testing
-If there a re tests to run when developing, you can provide the test commands to help the contributor run tests seemlessly. You might also want to explain common errors that could be encountered while running tests and how they can be solved.
+If there are tests to run when developing, you can provide the test commands to help the contributor run tests seemlessly. You might also want to explain common errors that could be encountered while running tests and how they can be solved.
 ## Releasing a new version
-You can create a list of steps on how a new version can be released. The is most times always for the maintainers of the project.
+You can create a list of steps on how a new version can be released. This is most times always for the maintainers of the project.
 
 
