@@ -10,10 +10,10 @@ stress of creating a setup for the project repository.
 ```
 
 ## Quick Start Instructions
-This sections should provide instructions and information about how to get the application up and running on different environments (development, testing, and production environments).
+These sections should provide instructions and information about how to get the application up and running on different environments (development, testing, and production environments).
 ### Prerequisites
 Information about what you need before starting the project should be provided in this section.
-For this project you will need a github account and an idea of the project you want to work on.
+For this project you will need a GitHub account and an idea of the project you want to work on.
 <br />
 ```
 Example working with a python project.
@@ -23,7 +23,7 @@ You can also specify the operating system needed for the project. e.g "Windows, 
 ```
 
 ### Installation
-Give a step by step installation procedure of the application and integration of the application into another application if necessary. <b>Make this procedure succinct.</b><br/> You can add illustrated examples of the steps if needed to aid the user of the application or other contributors.
+Give a step-by-step installation procedure of the application and integration of the application into another application if necessary. <b>Make this procedure succinct.</b><br/> You can add illustrated examples of the steps if needed to aid the user of the application or other contributors.
 
 ## Usage/In-depth API Documentation.
 Provide usage information for all users and contributors. Usage information should include using on local environment, test environment, and/or production environment. If the API is not so robust, the documentation for it can be directly added to the README file. If there is too much to fit in one place, or you need more documentation features, this is where the link to an external site or file will be.
@@ -41,7 +41,7 @@ You can decide to add a list of the initial contributors here and add a link to 
 See list of [contributors](https://github.com/robotstech/opensource-project/graphs/contributors) who contributed to this project
 
 ## Security Contact
-Please disclose any security-related issues or vulnerabilities by emailing [contact's email](company@email.com), instead of using the public issue tracker. See [SECURITY.md](SECURITY.md) for more information.
+Please disclose any security-related issues or vulnerabilities by emailing [contact's email](mailto:company@email.com), instead of using the public issue tracker. See [SECURITY.md](SECURITY.md) for more information.
 
 ## License
 Make sure you have a license that guides every user of the project. This license permits or restricts the use of the application by users of the project.
