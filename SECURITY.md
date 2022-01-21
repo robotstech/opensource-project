@@ -1,6 +1,6 @@
 # Security Policy
 
-If you feel you've discovered a security flaw in this sofware, please let us know.
+If you feel you've discovered a security flaw in this software, please let us know.
 **please don't create a public issue**. 
 
 
